@@ -21,3 +21,16 @@ A Java-based simulator of projectile motion built with **OOP principles** and **
 ---
 
 ## 📂 Project Structure  
+
+├── gui/ # User interface components (MainFrame, InputPanel, ResultPanel, etc.)
+├── physics/ # Physics engine and projectile logic
+├── render/ # Animation and rendering of trajectory
+
+---
+
+## 🎮 How to Run  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/dureadaaan/projectile-motion-simulator.git
+   cd projectile-motion-simulator
+
